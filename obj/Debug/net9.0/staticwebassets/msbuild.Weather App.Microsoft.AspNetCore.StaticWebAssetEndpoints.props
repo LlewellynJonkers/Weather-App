@@ -1,0 +1,208 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Weather App/Images/clear.6512ipqvtw.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\clear.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6512ipqvtw"},{"Name":"integrity","Value":"sha256-ttcIxKtkm0\u002BkGdmW3EqnfK3ub/wXiB9yOYwsfMKZOlQ="},{"Name":"label","Value":"_content/Weather App/Images/clear.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6585"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ttcIxKtkm0\u002BkGdmW3EqnfK3ub/wXiB9yOYwsfMKZOlQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Mar 2023 14:38:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Weather App/Images/clear.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\clear.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ttcIxKtkm0\u002BkGdmW3EqnfK3ub/wXiB9yOYwsfMKZOlQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"6585"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ttcIxKtkm0\u002BkGdmW3EqnfK3ub/wXiB9yOYwsfMKZOlQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Mar 2023 14:38:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Weather App/Images/clouds.3l0o0ax3si.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\clouds.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3l0o0ax3si"},{"Name":"integrity","Value":"sha256-91Db9j\u002BAErpqzszsmGpgH0P3gzR78z597B23niZUgqI="},{"Name":"label","Value":"_content/Weather App/Images/clouds.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12731"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u002291Db9j\u002BAErpqzszsmGpgH0P3gzR78z597B23niZUgqI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Mar 2023 14:10:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Weather App/Images/clouds.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\clouds.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-91Db9j\u002BAErpqzszsmGpgH0P3gzR78z597B23niZUgqI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12731"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u002291Db9j\u002BAErpqzszsmGpgH0P3gzR78z597B23niZUgqI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Mar 2023 14:10:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Weather App/Images/drizzle.1lroh06byl.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\drizzle.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1lroh06byl"},{"Name":"integrity","Value":"sha256-W40tuJwXOt7EDDLAgikRTuae2x0j65mF7WSX8NVICTk="},{"Name":"label","Value":"_content/Weather App/Images/drizzle.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10374"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022W40tuJwXOt7EDDLAgikRTuae2x0j65mF7WSX8NVICTk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Mar 2023 14:03:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Weather App/Images/drizzle.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\drizzle.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-W40tuJwXOt7EDDLAgikRTuae2x0j65mF7WSX8NVICTk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10374"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022W40tuJwXOt7EDDLAgikRTuae2x0j65mF7WSX8NVICTk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Mar 2023 14:03:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Weather App/Images/humidity.nt543qxqhe.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\humidity.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nt543qxqhe"},{"Name":"integrity","Value":"sha256-exERL52ByyJwrRBgVB2F50nRVJN7odbmt\u002BP8OKwOBcQ="},{"Name":"label","Value":"_content/Weather App/Images/humidity.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1627"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022exERL52ByyJwrRBgVB2F50nRVJN7odbmt\u002BP8OKwOBcQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Mar 2023 14:03:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Weather App/Images/humidity.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\humidity.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-exERL52ByyJwrRBgVB2F50nRVJN7odbmt\u002BP8OKwOBcQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1627"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022exERL52ByyJwrRBgVB2F50nRVJN7odbmt\u002BP8OKwOBcQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Mar 2023 14:03:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Weather App/Images/mist.75gxt9oz9f.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\mist.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"75gxt9oz9f"},{"Name":"integrity","Value":"sha256-Be\u002BvY8ze\u002BDWZDukP\u002B0Bua97Hc4KIjaD0x8FR/OF9MyY="},{"Name":"label","Value":"_content/Weather App/Images/mist.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12200"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Be\u002BvY8ze\u002BDWZDukP\u002B0Bua97Hc4KIjaD0x8FR/OF9MyY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Mar 2023 14:03:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Weather App/Images/mist.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\mist.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Be\u002BvY8ze\u002BDWZDukP\u002B0Bua97Hc4KIjaD0x8FR/OF9MyY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12200"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Be\u002BvY8ze\u002BDWZDukP\u002B0Bua97Hc4KIjaD0x8FR/OF9MyY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Mar 2023 14:03:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Weather App/Images/rain.p0ssn1vqn4.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\rain.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"p0ssn1vqn4"},{"Name":"integrity","Value":"sha256-J/iWZWUR\u002BqjbaJxGIR/ogkUKv\u002BgnULNzMTRufgjHvWA="},{"Name":"label","Value":"_content/Weather App/Images/rain.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5841"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022J/iWZWUR\u002BqjbaJxGIR/ogkUKv\u002BgnULNzMTRufgjHvWA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Mar 2023 14:10:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Weather App/Images/rain.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\rain.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-J/iWZWUR\u002BqjbaJxGIR/ogkUKv\u002BgnULNzMTRufgjHvWA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5841"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022J/iWZWUR\u002BqjbaJxGIR/ogkUKv\u002BgnULNzMTRufgjHvWA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Mar 2023 14:10:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Weather App/Images/search.c00gdkobp3.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\search.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"c00gdkobp3"},{"Name":"integrity","Value":"sha256-9F534dVPe8vJdGQIn8Ru6rMnoEGCcetMSgS0m0stRSw="},{"Name":"label","Value":"_content/Weather App/Images/search.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1559"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00229F534dVPe8vJdGQIn8Ru6rMnoEGCcetMSgS0m0stRSw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Mar 2023 14:03:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Weather App/Images/search.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\search.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9F534dVPe8vJdGQIn8Ru6rMnoEGCcetMSgS0m0stRSw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1559"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00229F534dVPe8vJdGQIn8Ru6rMnoEGCcetMSgS0m0stRSw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Mar 2023 14:03:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Weather App/Images/snow.37r8x79zdj.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\snow.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"37r8x79zdj"},{"Name":"integrity","Value":"sha256-r8jRu/sZVHx0bOf0kAjgjxGeozg4OeJyjHZNsCY1cTo="},{"Name":"label","Value":"_content/Weather App/Images/snow.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11106"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022r8jRu/sZVHx0bOf0kAjgjxGeozg4OeJyjHZNsCY1cTo=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Mar 2023 14:38:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Weather App/Images/snow.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\snow.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-r8jRu/sZVHx0bOf0kAjgjxGeozg4OeJyjHZNsCY1cTo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11106"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022r8jRu/sZVHx0bOf0kAjgjxGeozg4OeJyjHZNsCY1cTo=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Mar 2023 14:38:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Weather App/Images/wind.dc1qfm75lm.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\wind.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dc1qfm75lm"},{"Name":"integrity","Value":"sha256-sz8Vfv5xdtjsvlCbWMlkkGrx7NUxfCOO9NRdqCquys0="},{"Name":"label","Value":"_content/Weather App/Images/wind.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2204"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022sz8Vfv5xdtjsvlCbWMlkkGrx7NUxfCOO9NRdqCquys0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Mar 2023 14:03:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Weather App/Images/wind.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\wind.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-sz8Vfv5xdtjsvlCbWMlkkGrx7NUxfCOO9NRdqCquys0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"2204"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022sz8Vfv5xdtjsvlCbWMlkkGrx7NUxfCOO9NRdqCquys0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Mar 2023 14:03:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Weather App/lib/jquery/jquery.0i3buxo5is.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\jquery.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0i3buxo5is"},{"Name":"integrity","Value":"sha256-eKhayi8LEQwp4NKxN\u002BCfCh\u002B3qOVUtJn3QNZ0TciWLP4="},{"Name":"label","Value":"_content/Weather App/lib/jquery/jquery.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"285314"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022eKhayi8LEQwp4NKxN\u002BCfCh\u002B3qOVUtJn3QNZ0TciWLP4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 03 Mar 2025 11:28:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Weather App/lib/jquery/jquery.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\jquery.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-eKhayi8LEQwp4NKxN\u002BCfCh\u002B3qOVUtJn3QNZ0TciWLP4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"285314"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022eKhayi8LEQwp4NKxN\u002BCfCh\u002B3qOVUtJn3QNZ0TciWLP4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 03 Mar 2025 11:28:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Weather App/lib/jquery/jquery.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\jquery.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"87533"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=\u0022"},{"Name":"Last-Modified","Value":"Mon, 03 Mar 2025 11:28:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Weather App/lib/jquery/jquery.min.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\jquery.min.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-z3TVHGLSmRiZiRMOu0I7MEU1Mv3ImI2OK3GxuRZagLg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"134755"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022z3TVHGLSmRiZiRMOu0I7MEU1Mv3ImI2OK3GxuRZagLg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 03 Mar 2025 11:28:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Weather App/lib/jquery/jquery.min.o1o13a6vjx.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\jquery.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"o1o13a6vjx"},{"Name":"integrity","Value":"sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="},{"Name":"label","Value":"_content/Weather App/lib/jquery/jquery.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"87533"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=\u0022"},{"Name":"Last-Modified","Value":"Mon, 03 Mar 2025 11:28:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Weather App/lib/jquery/jquery.min.ttgo8qnofa.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\jquery.min.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ttgo8qnofa"},{"Name":"integrity","Value":"sha256-z3TVHGLSmRiZiRMOu0I7MEU1Mv3ImI2OK3GxuRZagLg="},{"Name":"label","Value":"_content/Weather App/lib/jquery/jquery.min.map"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"134755"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022z3TVHGLSmRiZiRMOu0I7MEU1Mv3ImI2OK3GxuRZagLg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 03 Mar 2025 11:28:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Weather App/lib/jquery/jquery.slim.2z0ns9nrw6.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\jquery.slim.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2z0ns9nrw6"},{"Name":"integrity","Value":"sha256-UgvvN8vBkgO0luPSUl2s8TIlOSYRoGFAX4jlCIm9Adc="},{"Name":"label","Value":"_content/Weather App/lib/jquery/jquery.slim.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"232015"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022UgvvN8vBkgO0luPSUl2s8TIlOSYRoGFAX4jlCIm9Adc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 03 Mar 2025 11:28:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Weather App/lib/jquery/jquery.slim.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\jquery.slim.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-UgvvN8vBkgO0luPSUl2s8TIlOSYRoGFAX4jlCIm9Adc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"232015"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022UgvvN8vBkgO0luPSUl2s8TIlOSYRoGFAX4jlCIm9Adc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 03 Mar 2025 11:28:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Weather App/lib/jquery/jquery.slim.min.87fc7y1x7t.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\jquery.slim.min.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"87fc7y1x7t"},{"Name":"integrity","Value":"sha256-9FYmcgtx8qZo1OPPiPt/BJ/sz0EI8SRNUYsFLZDEEt4="},{"Name":"label","Value":"_content/Weather App/lib/jquery/jquery.slim.min.map"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"107143"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u00229FYmcgtx8qZo1OPPiPt/BJ/sz0EI8SRNUYsFLZDEEt4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 03 Mar 2025 11:28:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Weather App/lib/jquery/jquery.slim.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\jquery.slim.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kmHvs0B\u002BOpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"70264"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022kmHvs0B\u002BOpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8=\u0022"},{"Name":"Last-Modified","Value":"Mon, 03 Mar 2025 11:28:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Weather App/lib/jquery/jquery.slim.min.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\jquery.slim.min.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9FYmcgtx8qZo1OPPiPt/BJ/sz0EI8SRNUYsFLZDEEt4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"107143"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u00229FYmcgtx8qZo1OPPiPt/BJ/sz0EI8SRNUYsFLZDEEt4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 03 Mar 2025 11:28:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Weather App/lib/jquery/jquery.slim.min.muycvpuwrr.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\jquery.slim.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"muycvpuwrr"},{"Name":"integrity","Value":"sha256-kmHvs0B\u002BOpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8="},{"Name":"label","Value":"_content/Weather App/lib/jquery/jquery.slim.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"70264"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022kmHvs0B\u002BOpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8=\u0022"},{"Name":"Last-Modified","Value":"Mon, 03 Mar 2025 11:28:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Weather App/scripts/main.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\scripts\main.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PMDSI8KKUkTkA9gvXUPFq6Y/NntH8FZgUWOA6F7BWuc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"15"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022PMDSI8KKUkTkA9gvXUPFq6Y/NntH8FZgUWOA6F7BWuc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 03 Mar 2025 13:11:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Weather App/scripts/main.ojslo5zthd.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\scripts\main.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ojslo5zthd"},{"Name":"integrity","Value":"sha256-PMDSI8KKUkTkA9gvXUPFq6Y/NntH8FZgUWOA6F7BWuc="},{"Name":"label","Value":"_content/Weather App/scripts/main.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"15"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022PMDSI8KKUkTkA9gvXUPFq6Y/NntH8FZgUWOA6F7BWuc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 03 Mar 2025 13:11:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Weather App/styles/main.8euljnb70i.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\styles\main.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8euljnb70i"},{"Name":"integrity","Value":"sha256-4FMT8vqNpY2HCUDN\u002B4C1soS/BfGfvF2IwIsFq8Rocmc="},{"Name":"label","Value":"_content/Weather App/styles/main.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1480"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00224FMT8vqNpY2HCUDN\u002B4C1soS/BfGfvF2IwIsFq8Rocmc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 03 Mar 2025 12:50:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Weather App/styles/main.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\styles\main.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-4FMT8vqNpY2HCUDN\u002B4C1soS/BfGfvF2IwIsFq8Rocmc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1480"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00224FMT8vqNpY2HCUDN\u002B4C1soS/BfGfvF2IwIsFq8Rocmc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 03 Mar 2025 12:50:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

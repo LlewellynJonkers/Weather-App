@@ -1,0 +1,93 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\clear.png",
+      "PackagePath": "staticwebassets\\Images\\clear.png"
+    },
+    {
+      "Id": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\clouds.png",
+      "PackagePath": "staticwebassets\\Images\\clouds.png"
+    },
+    {
+      "Id": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\drizzle.png",
+      "PackagePath": "staticwebassets\\Images\\drizzle.png"
+    },
+    {
+      "Id": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\humidity.png",
+      "PackagePath": "staticwebassets\\Images\\humidity.png"
+    },
+    {
+      "Id": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\mist.png",
+      "PackagePath": "staticwebassets\\Images\\mist.png"
+    },
+    {
+      "Id": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\rain.png",
+      "PackagePath": "staticwebassets\\Images\\rain.png"
+    },
+    {
+      "Id": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\search.png",
+      "PackagePath": "staticwebassets\\Images\\search.png"
+    },
+    {
+      "Id": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\snow.png",
+      "PackagePath": "staticwebassets\\Images\\snow.png"
+    },
+    {
+      "Id": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\wind.png",
+      "PackagePath": "staticwebassets\\Images\\wind.png"
+    },
+    {
+      "Id": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\scripts\\main.js",
+      "PackagePath": "staticwebassets\\scripts\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\styles\\main.css",
+      "PackagePath": "staticwebassets\\styles\\main.css"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Weather App.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Weather App.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Weather App.props",
+      "PackagePath": "build\\Weather App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Weather App.props",
+      "PackagePath": "buildMultiTargeting\\Weather App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Weather App.props",
+      "PackagePath": "buildTransitive\\Weather App.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

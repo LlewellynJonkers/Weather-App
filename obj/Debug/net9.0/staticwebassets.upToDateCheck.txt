@@ -1,0 +1,25 @@
+C:\Users\Llewellyn\source\git\Expance Tracker\Weather App\wwwroot\lib\jquery\jquery.min.js
+C:\Users\Llewellyn\source\git\Expance Tracker\Weather App\wwwroot\styles\main.css
+C:\Users\Llewellyn\source\git\Expance Tracker\Weather App\wwwroot\lib\jquery\jquery.slim.min.map
+C:\Users\Llewellyn\source\git\Expance Tracker\Weather App\wwwroot\lib\jquery\jquery.js
+C:\Users\Llewellyn\source\git\Expance Tracker\Weather App\wwwroot\lib\jquery\jquery.min.map
+C:\Users\Llewellyn\source\git\Expance Tracker\Weather App\wwwroot\lib\jquery\jquery.slim.min.js
+C:\Users\Llewellyn\source\git\Expance Tracker\Weather App\wwwroot\lib\jquery\jquery.slim.js
+C:\Users\Llewellyn\source\git\Expance Tracker\Weather App\wwwroot\scripts\main.js
+wwwroot\Images\clear.png
+wwwroot\Images\clouds.png
+wwwroot\Images\drizzle.png
+wwwroot\Images\humidity.png
+wwwroot\Images\mist.png
+wwwroot\Images\rain.png
+wwwroot\Images\search.png
+wwwroot\Images\snow.png
+wwwroot\Images\wind.png
+wwwroot\lib\jquery\jquery.js
+wwwroot\lib\jquery\jquery.min.js
+wwwroot\lib\jquery\jquery.min.map
+wwwroot\lib\jquery\jquery.slim.js
+wwwroot\lib\jquery\jquery.slim.min.js
+wwwroot\lib\jquery\jquery.slim.min.map
+wwwroot\scripts\main.js
+wwwroot\styles\main.css

@@ -1,0 +1,3669 @@
+{
+  "Version": 1,
+  "Hash": "WV7xEymL20dnsQyFznP8HJBayadyyfoaz7Q3/RXEBqU=",
+  "Source": "Weather App",
+  "BasePath": "_content/Weather App",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Weather App\\wwwroot",
+      "Source": "Weather App",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\",
+      "BasePath": "_content/Weather App",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\8h3sdnwxrl-o1o13a6vjx.gz",
+      "SourceId": "Weather App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Weather App",
+      "RelativePath": "lib/jquery/jquery.min#[.{fingerprint=o1o13a6vjx}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "9lbv9l0z68",
+      "Integrity": "bSlV8nIWgnEsf0ljiCRK0xw364UXDcqZZilq1CQ+At0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\9c5iy31ga7-8euljnb70i.gz",
+      "SourceId": "Weather App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Weather App",
+      "RelativePath": "styles/main#[.{fingerprint=8euljnb70i}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\styles\\main.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "x13wmy2uzj",
+      "Integrity": "i+qi3EqSIn+MwwzcQZUydHagoaYJLm6UNdJX1tni2Fg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\styles\\main.css"
+    },
+    {
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\ddupwpouix-87fc7y1x7t.gz",
+      "SourceId": "Weather App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Weather App",
+      "RelativePath": "lib/jquery/jquery.slim.min#[.{fingerprint=87fc7y1x7t}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.min.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "uiwq7himce",
+      "Integrity": "2u2XFgZyC96dP/elrO5ny/maD/llVl8JsX3pBm2SWT0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\dxozd0g215-0i3buxo5is.gz",
+      "SourceId": "Weather App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Weather App",
+      "RelativePath": "lib/jquery/jquery#[.{fingerprint=0i3buxo5is}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "v75tr20pas",
+      "Integrity": "q0KM+9yOLRYeTH/iGBE/HUYO08aXn2DmZ+yyIU6/kho=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.js"
+    },
+    {
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\odmjbc45h7-ttgo8qnofa.gz",
+      "SourceId": "Weather App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Weather App",
+      "RelativePath": "lib/jquery/jquery.min#[.{fingerprint=ttgo8qnofa}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.min.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "sdwt97mj8r",
+      "Integrity": "0HH7P7Mtrs+2sBMSFXD8DJw0oV4iDB5wkeRFpSi113A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.min.map"
+    },
+    {
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\s9vytt9utf-muycvpuwrr.gz",
+      "SourceId": "Weather App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Weather App",
+      "RelativePath": "lib/jquery/jquery.slim.min#[.{fingerprint=muycvpuwrr}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "gm2ug2dj20",
+      "Integrity": "OK9mKWiOoFmOZ+xYop9MRSKE6LHMu/9ZTCPvluUOpcA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\u2qcma48rb-2z0ns9nrw6.gz",
+      "SourceId": "Weather App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Weather App",
+      "RelativePath": "lib/jquery/jquery.slim#[.{fingerprint=2z0ns9nrw6}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "yow8h3bl0n",
+      "Integrity": "fhspAbITSYOUuRd6s5oYdr7V1DC3ibPbW5Siv7MGps8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.js"
+    },
+    {
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\w088w71syy-ojslo5zthd.gz",
+      "SourceId": "Weather App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Weather App",
+      "RelativePath": "scripts/main#[.{fingerprint=ojslo5zthd}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\scripts\\main.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "72en8ucz9v",
+      "Integrity": "72Zp44K09L9rDZumwn07reNDSkt91SySx7QaFXK/WBc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\scripts\\main.js"
+    },
+    {
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\clear.png",
+      "SourceId": "Weather App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\",
+      "BasePath": "_content/Weather App",
+      "RelativePath": "Images/clear#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6512ipqvtw",
+      "Integrity": "ttcIxKtkm0+kGdmW3EqnfK3ub/wXiB9yOYwsfMKZOlQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\clear.png"
+    },
+    {
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\clouds.png",
+      "SourceId": "Weather App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\",
+      "BasePath": "_content/Weather App",
+      "RelativePath": "Images/clouds#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3l0o0ax3si",
+      "Integrity": "91Db9j+AErpqzszsmGpgH0P3gzR78z597B23niZUgqI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\clouds.png"
+    },
+    {
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\drizzle.png",
+      "SourceId": "Weather App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\",
+      "BasePath": "_content/Weather App",
+      "RelativePath": "Images/drizzle#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1lroh06byl",
+      "Integrity": "W40tuJwXOt7EDDLAgikRTuae2x0j65mF7WSX8NVICTk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\drizzle.png"
+    },
+    {
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\humidity.png",
+      "SourceId": "Weather App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\",
+      "BasePath": "_content/Weather App",
+      "RelativePath": "Images/humidity#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nt543qxqhe",
+      "Integrity": "exERL52ByyJwrRBgVB2F50nRVJN7odbmt+P8OKwOBcQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\humidity.png"
+    },
+    {
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\mist.png",
+      "SourceId": "Weather App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\",
+      "BasePath": "_content/Weather App",
+      "RelativePath": "Images/mist#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "75gxt9oz9f",
+      "Integrity": "Be+vY8ze+DWZDukP+0Bua97Hc4KIjaD0x8FR/OF9MyY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\mist.png"
+    },
+    {
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\rain.png",
+      "SourceId": "Weather App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\",
+      "BasePath": "_content/Weather App",
+      "RelativePath": "Images/rain#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p0ssn1vqn4",
+      "Integrity": "J/iWZWUR+qjbaJxGIR/ogkUKv+gnULNzMTRufgjHvWA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\rain.png"
+    },
+    {
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\search.png",
+      "SourceId": "Weather App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\",
+      "BasePath": "_content/Weather App",
+      "RelativePath": "Images/search#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c00gdkobp3",
+      "Integrity": "9F534dVPe8vJdGQIn8Ru6rMnoEGCcetMSgS0m0stRSw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\search.png"
+    },
+    {
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\snow.png",
+      "SourceId": "Weather App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\",
+      "BasePath": "_content/Weather App",
+      "RelativePath": "Images/snow#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "37r8x79zdj",
+      "Integrity": "r8jRu/sZVHx0bOf0kAjgjxGeozg4OeJyjHZNsCY1cTo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\snow.png"
+    },
+    {
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\wind.png",
+      "SourceId": "Weather App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\",
+      "BasePath": "_content/Weather App",
+      "RelativePath": "Images/wind#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dc1qfm75lm",
+      "Integrity": "sz8Vfv5xdtjsvlCbWMlkkGrx7NUxfCOO9NRdqCquys0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\wind.png"
+    },
+    {
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.js",
+      "SourceId": "Weather App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\",
+      "BasePath": "_content/Weather App",
+      "RelativePath": "lib/jquery/jquery#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0i3buxo5is",
+      "Integrity": "eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.js"
+    },
+    {
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.min.js",
+      "SourceId": "Weather App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\",
+      "BasePath": "_content/Weather App",
+      "RelativePath": "lib/jquery/jquery.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o1o13a6vjx",
+      "Integrity": "/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.min.map",
+      "SourceId": "Weather App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\",
+      "BasePath": "_content/Weather App",
+      "RelativePath": "lib/jquery/jquery.min#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ttgo8qnofa",
+      "Integrity": "z3TVHGLSmRiZiRMOu0I7MEU1Mv3ImI2OK3GxuRZagLg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.min.map"
+    },
+    {
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.js",
+      "SourceId": "Weather App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\",
+      "BasePath": "_content/Weather App",
+      "RelativePath": "lib/jquery/jquery.slim#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2z0ns9nrw6",
+      "Integrity": "UgvvN8vBkgO0luPSUl2s8TIlOSYRoGFAX4jlCIm9Adc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.slim.js"
+    },
+    {
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
+      "SourceId": "Weather App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\",
+      "BasePath": "_content/Weather App",
+      "RelativePath": "lib/jquery/jquery.slim.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "muycvpuwrr",
+      "Integrity": "kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.min.map",
+      "SourceId": "Weather App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\",
+      "BasePath": "_content/Weather App",
+      "RelativePath": "lib/jquery/jquery.slim.min#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "87fc7y1x7t",
+      "Integrity": "9FYmcgtx8qZo1OPPiPt/BJ/sz0EI8SRNUYsFLZDEEt4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\scripts\\main.js",
+      "SourceId": "Weather App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\",
+      "BasePath": "_content/Weather App",
+      "RelativePath": "scripts/main#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ojslo5zthd",
+      "Integrity": "PMDSI8KKUkTkA9gvXUPFq6Y/NntH8FZgUWOA6F7BWuc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\scripts\\main.js"
+    },
+    {
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\styles\\main.css",
+      "SourceId": "Weather App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\",
+      "BasePath": "_content/Weather App",
+      "RelativePath": "styles/main#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8euljnb70i",
+      "Integrity": "4FMT8vqNpY2HCUDN+4C1soS/BfGfvF2IwIsFq8Rocmc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles\\main.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Images/clear.6512ipqvtw.png",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\clear.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6585"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ttcIxKtkm0+kGdmW3EqnfK3ub/wXiB9yOYwsfMKZOlQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Mar 2023 14:38:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6512ipqvtw"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/clear.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ttcIxKtkm0+kGdmW3EqnfK3ub/wXiB9yOYwsfMKZOlQ="
+        }
+      ]
+    },
+    {
+      "Route": "Images/clear.png",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\clear.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6585"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ttcIxKtkm0+kGdmW3EqnfK3ub/wXiB9yOYwsfMKZOlQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Mar 2023 14:38:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ttcIxKtkm0+kGdmW3EqnfK3ub/wXiB9yOYwsfMKZOlQ="
+        }
+      ]
+    },
+    {
+      "Route": "Images/clouds.3l0o0ax3si.png",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\clouds.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12731"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"91Db9j+AErpqzszsmGpgH0P3gzR78z597B23niZUgqI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Mar 2023 14:10:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3l0o0ax3si"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/clouds.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-91Db9j+AErpqzszsmGpgH0P3gzR78z597B23niZUgqI="
+        }
+      ]
+    },
+    {
+      "Route": "Images/clouds.png",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\clouds.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12731"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"91Db9j+AErpqzszsmGpgH0P3gzR78z597B23niZUgqI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Mar 2023 14:10:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-91Db9j+AErpqzszsmGpgH0P3gzR78z597B23niZUgqI="
+        }
+      ]
+    },
+    {
+      "Route": "Images/drizzle.1lroh06byl.png",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\drizzle.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10374"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W40tuJwXOt7EDDLAgikRTuae2x0j65mF7WSX8NVICTk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Mar 2023 14:03:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1lroh06byl"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/drizzle.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W40tuJwXOt7EDDLAgikRTuae2x0j65mF7WSX8NVICTk="
+        }
+      ]
+    },
+    {
+      "Route": "Images/drizzle.png",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\drizzle.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10374"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W40tuJwXOt7EDDLAgikRTuae2x0j65mF7WSX8NVICTk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Mar 2023 14:03:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W40tuJwXOt7EDDLAgikRTuae2x0j65mF7WSX8NVICTk="
+        }
+      ]
+    },
+    {
+      "Route": "Images/humidity.nt543qxqhe.png",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\humidity.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1627"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"exERL52ByyJwrRBgVB2F50nRVJN7odbmt+P8OKwOBcQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Mar 2023 14:03:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nt543qxqhe"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/humidity.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-exERL52ByyJwrRBgVB2F50nRVJN7odbmt+P8OKwOBcQ="
+        }
+      ]
+    },
+    {
+      "Route": "Images/humidity.png",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\humidity.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1627"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"exERL52ByyJwrRBgVB2F50nRVJN7odbmt+P8OKwOBcQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Mar 2023 14:03:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-exERL52ByyJwrRBgVB2F50nRVJN7odbmt+P8OKwOBcQ="
+        }
+      ]
+    },
+    {
+      "Route": "Images/mist.75gxt9oz9f.png",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\mist.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12200"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Be+vY8ze+DWZDukP+0Bua97Hc4KIjaD0x8FR/OF9MyY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Mar 2023 14:03:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "75gxt9oz9f"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/mist.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Be+vY8ze+DWZDukP+0Bua97Hc4KIjaD0x8FR/OF9MyY="
+        }
+      ]
+    },
+    {
+      "Route": "Images/mist.png",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\mist.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12200"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Be+vY8ze+DWZDukP+0Bua97Hc4KIjaD0x8FR/OF9MyY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Mar 2023 14:03:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Be+vY8ze+DWZDukP+0Bua97Hc4KIjaD0x8FR/OF9MyY="
+        }
+      ]
+    },
+    {
+      "Route": "Images/rain.p0ssn1vqn4.png",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\rain.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5841"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J/iWZWUR+qjbaJxGIR/ogkUKv+gnULNzMTRufgjHvWA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Mar 2023 14:10:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p0ssn1vqn4"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/rain.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J/iWZWUR+qjbaJxGIR/ogkUKv+gnULNzMTRufgjHvWA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/rain.png",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\rain.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5841"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J/iWZWUR+qjbaJxGIR/ogkUKv+gnULNzMTRufgjHvWA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Mar 2023 14:10:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-J/iWZWUR+qjbaJxGIR/ogkUKv+gnULNzMTRufgjHvWA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/search.c00gdkobp3.png",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\search.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1559"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9F534dVPe8vJdGQIn8Ru6rMnoEGCcetMSgS0m0stRSw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Mar 2023 14:03:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c00gdkobp3"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/search.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9F534dVPe8vJdGQIn8Ru6rMnoEGCcetMSgS0m0stRSw="
+        }
+      ]
+    },
+    {
+      "Route": "Images/search.png",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\search.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1559"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9F534dVPe8vJdGQIn8Ru6rMnoEGCcetMSgS0m0stRSw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Mar 2023 14:03:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9F534dVPe8vJdGQIn8Ru6rMnoEGCcetMSgS0m0stRSw="
+        }
+      ]
+    },
+    {
+      "Route": "Images/snow.37r8x79zdj.png",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\snow.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11106"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r8jRu/sZVHx0bOf0kAjgjxGeozg4OeJyjHZNsCY1cTo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Mar 2023 14:38:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "37r8x79zdj"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/snow.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-r8jRu/sZVHx0bOf0kAjgjxGeozg4OeJyjHZNsCY1cTo="
+        }
+      ]
+    },
+    {
+      "Route": "Images/snow.png",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\snow.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11106"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r8jRu/sZVHx0bOf0kAjgjxGeozg4OeJyjHZNsCY1cTo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Mar 2023 14:38:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-r8jRu/sZVHx0bOf0kAjgjxGeozg4OeJyjHZNsCY1cTo="
+        }
+      ]
+    },
+    {
+      "Route": "Images/wind.dc1qfm75lm.png",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\wind.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2204"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sz8Vfv5xdtjsvlCbWMlkkGrx7NUxfCOO9NRdqCquys0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Mar 2023 14:03:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dc1qfm75lm"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/wind.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sz8Vfv5xdtjsvlCbWMlkkGrx7NUxfCOO9NRdqCquys0="
+        }
+      ]
+    },
+    {
+      "Route": "Images/wind.png",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\wind.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2204"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sz8Vfv5xdtjsvlCbWMlkkGrx7NUxfCOO9NRdqCquys0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Mar 2023 14:03:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sz8Vfv5xdtjsvlCbWMlkkGrx7NUxfCOO9NRdqCquys0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/jquery.0i3buxo5is.js",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\dxozd0g215-0i3buxo5is.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000011896831"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84055"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q0KM+9yOLRYeTH/iGBE/HUYO08aXn2DmZ+yyIU6/kho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 11:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0i3buxo5is"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/jquery.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/jquery.0i3buxo5is.js",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "285314"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 11:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0i3buxo5is"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/jquery.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/jquery.0i3buxo5is.js.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\dxozd0g215-0i3buxo5is.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84055"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q0KM+9yOLRYeTH/iGBE/HUYO08aXn2DmZ+yyIU6/kho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 11:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0i3buxo5is"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/jquery.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-q0KM+9yOLRYeTH/iGBE/HUYO08aXn2DmZ+yyIU6/kho="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/jquery.js",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\dxozd0g215-0i3buxo5is.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000011896831"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84055"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q0KM+9yOLRYeTH/iGBE/HUYO08aXn2DmZ+yyIU6/kho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 11:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/jquery.js",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "285314"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 11:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/jquery.js.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\dxozd0g215-0i3buxo5is.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84055"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q0KM+9yOLRYeTH/iGBE/HUYO08aXn2DmZ+yyIU6/kho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 11:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-q0KM+9yOLRYeTH/iGBE/HUYO08aXn2DmZ+yyIU6/kho="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/jquery.min.js",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\8h3sdnwxrl-o1o13a6vjx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000032879595"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30413"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bSlV8nIWgnEsf0ljiCRK0xw364UXDcqZZilq1CQ+At0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 11:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/jquery.min.js",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 11:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/jquery.min.js.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\8h3sdnwxrl-o1o13a6vjx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bSlV8nIWgnEsf0ljiCRK0xw364UXDcqZZilq1CQ+At0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 11:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bSlV8nIWgnEsf0ljiCRK0xw364UXDcqZZilq1CQ+At0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/jquery.min.map",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\odmjbc45h7-ttgo8qnofa.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000018542555"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53929"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0HH7P7Mtrs+2sBMSFXD8DJw0oV4iDB5wkeRFpSi113A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 11:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"z3TVHGLSmRiZiRMOu0I7MEU1Mv3ImI2OK3GxuRZagLg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z3TVHGLSmRiZiRMOu0I7MEU1Mv3ImI2OK3GxuRZagLg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/jquery.min.map",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.min.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z3TVHGLSmRiZiRMOu0I7MEU1Mv3ImI2OK3GxuRZagLg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 11:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z3TVHGLSmRiZiRMOu0I7MEU1Mv3ImI2OK3GxuRZagLg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/jquery.min.map.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\odmjbc45h7-ttgo8qnofa.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53929"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0HH7P7Mtrs+2sBMSFXD8DJw0oV4iDB5wkeRFpSi113A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 11:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0HH7P7Mtrs+2sBMSFXD8DJw0oV4iDB5wkeRFpSi113A="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/jquery.min.o1o13a6vjx.js",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\8h3sdnwxrl-o1o13a6vjx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000032879595"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30413"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bSlV8nIWgnEsf0ljiCRK0xw364UXDcqZZilq1CQ+At0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 11:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o1o13a6vjx"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/jquery.min.o1o13a6vjx.js",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 11:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o1o13a6vjx"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/jquery.min.o1o13a6vjx.js.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\8h3sdnwxrl-o1o13a6vjx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bSlV8nIWgnEsf0ljiCRK0xw364UXDcqZZilq1CQ+At0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 11:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o1o13a6vjx"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/jquery.min.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bSlV8nIWgnEsf0ljiCRK0xw364UXDcqZZilq1CQ+At0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/jquery.min.ttgo8qnofa.map",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\odmjbc45h7-ttgo8qnofa.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000018542555"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53929"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0HH7P7Mtrs+2sBMSFXD8DJw0oV4iDB5wkeRFpSi113A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 11:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"z3TVHGLSmRiZiRMOu0I7MEU1Mv3ImI2OK3GxuRZagLg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ttgo8qnofa"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/jquery.min.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z3TVHGLSmRiZiRMOu0I7MEU1Mv3ImI2OK3GxuRZagLg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/jquery.min.ttgo8qnofa.map",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.min.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z3TVHGLSmRiZiRMOu0I7MEU1Mv3ImI2OK3GxuRZagLg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 11:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ttgo8qnofa"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/jquery.min.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z3TVHGLSmRiZiRMOu0I7MEU1Mv3ImI2OK3GxuRZagLg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/jquery.min.ttgo8qnofa.map.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\odmjbc45h7-ttgo8qnofa.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53929"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0HH7P7Mtrs+2sBMSFXD8DJw0oV4iDB5wkeRFpSi113A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 11:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ttgo8qnofa"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/jquery.min.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0HH7P7Mtrs+2sBMSFXD8DJw0oV4iDB5wkeRFpSi113A="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/jquery.slim.2z0ns9nrw6.js",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\u2qcma48rb-2z0ns9nrw6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000014637859"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68315"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fhspAbITSYOUuRd6s5oYdr7V1DC3ibPbW5Siv7MGps8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 11:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"UgvvN8vBkgO0luPSUl2s8TIlOSYRoGFAX4jlCIm9Adc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2z0ns9nrw6"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/jquery.slim.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UgvvN8vBkgO0luPSUl2s8TIlOSYRoGFAX4jlCIm9Adc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/jquery.slim.2z0ns9nrw6.js",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UgvvN8vBkgO0luPSUl2s8TIlOSYRoGFAX4jlCIm9Adc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 11:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2z0ns9nrw6"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/jquery.slim.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UgvvN8vBkgO0luPSUl2s8TIlOSYRoGFAX4jlCIm9Adc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/jquery.slim.2z0ns9nrw6.js.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\u2qcma48rb-2z0ns9nrw6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68315"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fhspAbITSYOUuRd6s5oYdr7V1DC3ibPbW5Siv7MGps8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 11:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2z0ns9nrw6"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/jquery.slim.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fhspAbITSYOUuRd6s5oYdr7V1DC3ibPbW5Siv7MGps8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/jquery.slim.js",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\u2qcma48rb-2z0ns9nrw6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000014637859"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68315"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fhspAbITSYOUuRd6s5oYdr7V1DC3ibPbW5Siv7MGps8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 11:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"UgvvN8vBkgO0luPSUl2s8TIlOSYRoGFAX4jlCIm9Adc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UgvvN8vBkgO0luPSUl2s8TIlOSYRoGFAX4jlCIm9Adc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/jquery.slim.js",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UgvvN8vBkgO0luPSUl2s8TIlOSYRoGFAX4jlCIm9Adc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 11:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UgvvN8vBkgO0luPSUl2s8TIlOSYRoGFAX4jlCIm9Adc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/jquery.slim.js.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\u2qcma48rb-2z0ns9nrw6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68315"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fhspAbITSYOUuRd6s5oYdr7V1DC3ibPbW5Siv7MGps8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 11:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fhspAbITSYOUuRd6s5oYdr7V1DC3ibPbW5Siv7MGps8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/jquery.slim.min.87fc7y1x7t.map",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\ddupwpouix-87fc7y1x7t.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000023399476"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42735"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2u2XFgZyC96dP/elrO5ny/maD/llVl8JsX3pBm2SWT0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 11:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9FYmcgtx8qZo1OPPiPt/BJ/sz0EI8SRNUYsFLZDEEt4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "87fc7y1x7t"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/jquery.slim.min.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9FYmcgtx8qZo1OPPiPt/BJ/sz0EI8SRNUYsFLZDEEt4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/jquery.slim.min.87fc7y1x7t.map",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.min.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "107143"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9FYmcgtx8qZo1OPPiPt/BJ/sz0EI8SRNUYsFLZDEEt4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 11:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "87fc7y1x7t"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/jquery.slim.min.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9FYmcgtx8qZo1OPPiPt/BJ/sz0EI8SRNUYsFLZDEEt4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/jquery.slim.min.87fc7y1x7t.map.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\ddupwpouix-87fc7y1x7t.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42735"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2u2XFgZyC96dP/elrO5ny/maD/llVl8JsX3pBm2SWT0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 11:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "87fc7y1x7t"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/jquery.slim.min.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2u2XFgZyC96dP/elrO5ny/maD/llVl8JsX3pBm2SWT0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/jquery.slim.min.js",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\s9vytt9utf-muycvpuwrr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041511000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24089"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OK9mKWiOoFmOZ+xYop9MRSKE6LHMu/9ZTCPvluUOpcA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 11:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/jquery.slim.min.js",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 11:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/jquery.slim.min.js.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\s9vytt9utf-muycvpuwrr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24089"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OK9mKWiOoFmOZ+xYop9MRSKE6LHMu/9ZTCPvluUOpcA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 11:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OK9mKWiOoFmOZ+xYop9MRSKE6LHMu/9ZTCPvluUOpcA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/jquery.slim.min.map",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\ddupwpouix-87fc7y1x7t.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000023399476"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42735"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2u2XFgZyC96dP/elrO5ny/maD/llVl8JsX3pBm2SWT0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 11:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9FYmcgtx8qZo1OPPiPt/BJ/sz0EI8SRNUYsFLZDEEt4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9FYmcgtx8qZo1OPPiPt/BJ/sz0EI8SRNUYsFLZDEEt4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/jquery.slim.min.map",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.min.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "107143"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9FYmcgtx8qZo1OPPiPt/BJ/sz0EI8SRNUYsFLZDEEt4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 11:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9FYmcgtx8qZo1OPPiPt/BJ/sz0EI8SRNUYsFLZDEEt4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/jquery.slim.min.map.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\ddupwpouix-87fc7y1x7t.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42735"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2u2XFgZyC96dP/elrO5ny/maD/llVl8JsX3pBm2SWT0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 11:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2u2XFgZyC96dP/elrO5ny/maD/llVl8JsX3pBm2SWT0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/jquery.slim.min.muycvpuwrr.js",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\s9vytt9utf-muycvpuwrr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041511000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24089"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OK9mKWiOoFmOZ+xYop9MRSKE6LHMu/9ZTCPvluUOpcA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 11:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "muycvpuwrr"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/jquery.slim.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/jquery.slim.min.muycvpuwrr.js",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 11:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "muycvpuwrr"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/jquery.slim.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/jquery.slim.min.muycvpuwrr.js.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\s9vytt9utf-muycvpuwrr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24089"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OK9mKWiOoFmOZ+xYop9MRSKE6LHMu/9ZTCPvluUOpcA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 11:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "muycvpuwrr"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/jquery.slim.min.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OK9mKWiOoFmOZ+xYop9MRSKE6LHMu/9ZTCPvluUOpcA="
+        }
+      ]
+    },
+    {
+      "Route": "scripts/main.js",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\w088w71syy-ojslo5zthd.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.027777777778"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"72Zp44K09L9rDZumwn07reNDSkt91SySx7QaFXK/WBc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 13:11:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"PMDSI8KKUkTkA9gvXUPFq6Y/NntH8FZgUWOA6F7BWuc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PMDSI8KKUkTkA9gvXUPFq6Y/NntH8FZgUWOA6F7BWuc="
+        }
+      ]
+    },
+    {
+      "Route": "scripts/main.js",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\scripts\\main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PMDSI8KKUkTkA9gvXUPFq6Y/NntH8FZgUWOA6F7BWuc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 13:11:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PMDSI8KKUkTkA9gvXUPFq6Y/NntH8FZgUWOA6F7BWuc="
+        }
+      ]
+    },
+    {
+      "Route": "scripts/main.js.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\w088w71syy-ojslo5zthd.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"72Zp44K09L9rDZumwn07reNDSkt91SySx7QaFXK/WBc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 13:11:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-72Zp44K09L9rDZumwn07reNDSkt91SySx7QaFXK/WBc="
+        }
+      ]
+    },
+    {
+      "Route": "scripts/main.ojslo5zthd.js",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\w088w71syy-ojslo5zthd.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.027777777778"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"72Zp44K09L9rDZumwn07reNDSkt91SySx7QaFXK/WBc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 13:11:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"PMDSI8KKUkTkA9gvXUPFq6Y/NntH8FZgUWOA6F7BWuc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ojslo5zthd"
+        },
+        {
+          "Name": "label",
+          "Value": "scripts/main.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PMDSI8KKUkTkA9gvXUPFq6Y/NntH8FZgUWOA6F7BWuc="
+        }
+      ]
+    },
+    {
+      "Route": "scripts/main.ojslo5zthd.js",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\scripts\\main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PMDSI8KKUkTkA9gvXUPFq6Y/NntH8FZgUWOA6F7BWuc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 13:11:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ojslo5zthd"
+        },
+        {
+          "Name": "label",
+          "Value": "scripts/main.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PMDSI8KKUkTkA9gvXUPFq6Y/NntH8FZgUWOA6F7BWuc="
+        }
+      ]
+    },
+    {
+      "Route": "scripts/main.ojslo5zthd.js.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\w088w71syy-ojslo5zthd.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"72Zp44K09L9rDZumwn07reNDSkt91SySx7QaFXK/WBc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 13:11:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ojslo5zthd"
+        },
+        {
+          "Name": "label",
+          "Value": "scripts/main.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-72Zp44K09L9rDZumwn07reNDSkt91SySx7QaFXK/WBc="
+        }
+      ]
+    },
+    {
+      "Route": "styles/main.8euljnb70i.css",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\9c5iy31ga7-8euljnb70i.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001930501931"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "517"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i+qi3EqSIn+MwwzcQZUydHagoaYJLm6UNdJX1tni2Fg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 12:50:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"4FMT8vqNpY2HCUDN+4C1soS/BfGfvF2IwIsFq8Rocmc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8euljnb70i"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/main.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4FMT8vqNpY2HCUDN+4C1soS/BfGfvF2IwIsFq8Rocmc="
+        }
+      ]
+    },
+    {
+      "Route": "styles/main.8euljnb70i.css",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\styles\\main.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1480"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4FMT8vqNpY2HCUDN+4C1soS/BfGfvF2IwIsFq8Rocmc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 12:50:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8euljnb70i"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/main.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4FMT8vqNpY2HCUDN+4C1soS/BfGfvF2IwIsFq8Rocmc="
+        }
+      ]
+    },
+    {
+      "Route": "styles/main.8euljnb70i.css.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\9c5iy31ga7-8euljnb70i.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "517"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i+qi3EqSIn+MwwzcQZUydHagoaYJLm6UNdJX1tni2Fg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 12:50:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8euljnb70i"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/main.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-i+qi3EqSIn+MwwzcQZUydHagoaYJLm6UNdJX1tni2Fg="
+        }
+      ]
+    },
+    {
+      "Route": "styles/main.css",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\9c5iy31ga7-8euljnb70i.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001930501931"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "517"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i+qi3EqSIn+MwwzcQZUydHagoaYJLm6UNdJX1tni2Fg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 12:50:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"4FMT8vqNpY2HCUDN+4C1soS/BfGfvF2IwIsFq8Rocmc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4FMT8vqNpY2HCUDN+4C1soS/BfGfvF2IwIsFq8Rocmc="
+        }
+      ]
+    },
+    {
+      "Route": "styles/main.css",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\styles\\main.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1480"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4FMT8vqNpY2HCUDN+4C1soS/BfGfvF2IwIsFq8Rocmc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 12:50:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4FMT8vqNpY2HCUDN+4C1soS/BfGfvF2IwIsFq8Rocmc="
+        }
+      ]
+    },
+    {
+      "Route": "styles/main.css.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\9c5iy31ga7-8euljnb70i.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "517"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i+qi3EqSIn+MwwzcQZUydHagoaYJLm6UNdJX1tni2Fg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 12:50:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-i+qi3EqSIn+MwwzcQZUydHagoaYJLm6UNdJX1tni2Fg="
+        }
+      ]
+    }
+  ]
+}
