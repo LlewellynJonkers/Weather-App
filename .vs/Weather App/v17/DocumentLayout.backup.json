@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\",
+  "WorkspaceRootPath": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2FFE65CA-93AB-4B21-A38E-DEB0C1F90308}|Weather App.csproj|c:\\users\\llewellyn\\source\\git\\expance tracker\\weather app\\services\\weatherapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2FFE65CA-93AB-4B21-A38E-DEB0C1F90308}|Weather App.csproj|c:\\users\\llewellyn\\source\\git\\weather app\\services\\weatherapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FFE65CA-93AB-4B21-A38E-DEB0C1F90308}|Weather App.csproj|solutionrelative:services\\weatherapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FFE65CA-93AB-4B21-A38E-DEB0C1F90308}|Weather App.csproj|c:\\users\\llewellyn\\source\\git\\expance tracker\\weather app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2FFE65CA-93AB-4B21-A38E-DEB0C1F90308}|Weather App.csproj|c:\\users\\llewellyn\\source\\git\\weather app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FFE65CA-93AB-4B21-A38E-DEB0C1F90308}|Weather App.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FFE65CA-93AB-4B21-A38E-DEB0C1F90308}|Weather App.csproj|c:\\users\\llewellyn\\source\\git\\expance tracker\\weather app\\controllers\\appapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2FFE65CA-93AB-4B21-A38E-DEB0C1F90308}|Weather App.csproj|c:\\users\\llewellyn\\source\\git\\weather app\\controllers\\appapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FFE65CA-93AB-4B21-A38E-DEB0C1F90308}|Weather App.csproj|solutionrelative:controllers\\appapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FFE65CA-93AB-4B21-A38E-DEB0C1F90308}|Weather App.csproj|c:\\users\\llewellyn\\source\\git\\expance tracker\\weather app\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2FFE65CA-93AB-4B21-A38E-DEB0C1F90308}|Weather App.csproj|c:\\users\\llewellyn\\source\\git\\weather app\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2FFE65CA-93AB-4B21-A38E-DEB0C1F90308}|Weather App.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FFE65CA-93AB-4B21-A38E-DEB0C1F90308}|Weather App.csproj|c:\\users\\llewellyn\\source\\git\\expance tracker\\weather app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2FFE65CA-93AB-4B21-A38E-DEB0C1F90308}|Weather App.csproj|c:\\users\\llewellyn\\source\\git\\weather app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2FFE65CA-93AB-4B21-A38E-DEB0C1F90308}|Weather App.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FFE65CA-93AB-4B21-A38E-DEB0C1F90308}|Weather App.csproj|c:\\users\\llewellyn\\source\\git\\expance tracker\\weather app\\wwwroot\\scripts\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{2FFE65CA-93AB-4B21-A38E-DEB0C1F90308}|Weather App.csproj|c:\\users\\llewellyn\\source\\git\\weather app\\wwwroot\\scripts\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{2FFE65CA-93AB-4B21-A38E-DEB0C1F90308}|Weather App.csproj|solutionrelative:wwwroot\\scripts\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FFE65CA-93AB-4B21-A38E-DEB0C1F90308}|Weather App.csproj|c:\\users\\llewellyn\\source\\git\\expance tracker\\weather app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2FFE65CA-93AB-4B21-A38E-DEB0C1F90308}|Weather App.csproj|c:\\users\\llewellyn\\source\\git\\weather app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2FFE65CA-93AB-4B21-A38E-DEB0C1F90308}|Weather App.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FFE65CA-93AB-4B21-A38E-DEB0C1F90308}|Weather App.csproj|c:\\users\\llewellyn\\source\\git\\expance tracker\\weather app\\wwwroot\\styles\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{2FFE65CA-93AB-4B21-A38E-DEB0C1F90308}|Weather App.csproj|c:\\users\\llewellyn\\source\\git\\weather app\\wwwroot\\styles\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{2FFE65CA-93AB-4B21-A38E-DEB0C1F90308}|Weather App.csproj|solutionrelative:wwwroot\\styles\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FFE65CA-93AB-4B21-A38E-DEB0C1F90308}|Weather App.csproj|c:\\users\\llewellyn\\source\\git\\expance tracker\\weather app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2FFE65CA-93AB-4B21-A38E-DEB0C1F90308}|Weather App.csproj|c:\\users\\llewellyn\\source\\git\\weather app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FFE65CA-93AB-4B21-A38E-DEB0C1F90308}|Weather App.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FFE65CA-93AB-4B21-A38E-DEB0C1F90308}|Weather App.csproj|c:\\users\\llewellyn\\source\\git\\expance tracker\\weather app\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2FFE65CA-93AB-4B21-A38E-DEB0C1F90308}|Weather App.csproj|c:\\users\\llewellyn\\source\\git\\weather app\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2FFE65CA-93AB-4B21-A38E-DEB0C1F90308}|Weather App.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FFE65CA-93AB-4B21-A38E-DEB0C1F90308}|Weather App.csproj|c:\\users\\llewellyn\\source\\git\\expance tracker\\weather app\\weather app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{2FFE65CA-93AB-4B21-A38E-DEB0C1F90308}|Weather App.csproj|c:\\users\\llewellyn\\source\\git\\weather app\\weather app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{2FFE65CA-93AB-4B21-A38E-DEB0C1F90308}|Weather App.csproj|solutionrelative:weather app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -54,17 +54,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T12:34:17.054Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "WeatherApiService.cs",
-              "DocumentMoniker": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\Services\\WeatherApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\Services\\WeatherApiService.cs",
               "RelativeDocumentMoniker": "Services\\WeatherApiService.cs",
-              "ToolTip": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\Services\\WeatherApiService.cs",
+              "ToolTip": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\Services\\WeatherApiService.cs",
               "RelativeToolTip": "Services\\WeatherApiService.cs",
-              "ViewState": "AgIAAAMAAABQYWZmZmYowBsAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAMzMzMzMbwBAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T13:33:46.068Z",
               "EditorCaption": ""
@@ -73,126 +86,105 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-03T11:26:05.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T11:26:05.308Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "AppAPIController.cs",
-              "DocumentMoniker": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\Controllers\\AppAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\Controllers\\AppAPIController.cs",
               "RelativeDocumentMoniker": "Controllers\\AppAPIController.cs",
-              "ToolTip": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\Controllers\\AppAPIController.cs",
+              "ToolTip": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\Controllers\\AppAPIController.cs",
               "RelativeToolTip": "Controllers\\AppAPIController.cs",
               "ViewState": "AgIAAAYAAADAYGZmZmYWwBUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T13:06:50.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T13:06:50.399Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-03T11:24:13.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T12:34:17.054Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T11:24:13.793Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-03T12:15:30.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T12:15:30.517Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "main.css",
-              "DocumentMoniker": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\styles\\main.css",
+              "DocumentMoniker": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\styles\\main.css",
               "RelativeDocumentMoniker": "wwwroot\\styles\\main.css",
-              "ToolTip": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\styles\\main.css",
+              "ToolTip": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\styles\\main.css",
               "RelativeToolTip": "wwwroot\\styles\\main.css",
               "ViewState": "AgIAADUAAAAA2MzMzMz8vzwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-03T11:22:47.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T11:22:47.638Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "main.js",
-              "DocumentMoniker": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\scripts\\main.js",
+              "DocumentMoniker": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\scripts\\main.js",
               "RelativeDocumentMoniker": "wwwroot\\scripts\\main.js",
-              "ToolTip": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\scripts\\main.js",
+              "ToolTip": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\scripts\\main.js",
               "RelativeToolTip": "wwwroot\\scripts\\main.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-03-03T11:23:40.143Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T11:23:40.143Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAABIAAABgMTMzM3MqwAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T12:35:53.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T12:35:53.296Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-03T11:25:42.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T11:25:42.731Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Weather App.csproj",
-              "DocumentMoniker": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\Weather App.csproj",
+              "DocumentMoniker": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\Weather App.csproj",
               "RelativeDocumentMoniker": "Weather App.csproj",
-              "ToolTip": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\Weather App.csproj",
+              "ToolTip": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\Weather App.csproj",
               "RelativeToolTip": "Weather App.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

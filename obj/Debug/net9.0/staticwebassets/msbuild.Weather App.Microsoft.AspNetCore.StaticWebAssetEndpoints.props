@@ -108,6 +108,18 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-sz8Vfv5xdtjsvlCbWMlkkGrx7NUxfCOO9NRdqCquys0="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"2204"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022sz8Vfv5xdtjsvlCbWMlkkGrx7NUxfCOO9NRdqCquys0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Mar 2023 14:03:52 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Weather App/key.fqb8try5i7.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\key.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fqb8try5i7"},{"Name":"integrity","Value":"sha256-mSneaQjgT2aiLY\u002BxMxqXsECJQYkqa94T8TBF\u002BuT1yrs="},{"Name":"label","Value":"_content/Weather App/key.txt"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"35"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022mSneaQjgT2aiLY\u002BxMxqXsECJQYkqa94T8TBF\u002BuT1yrs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 03 Mar 2025 13:40:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Weather App/key.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\key.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mSneaQjgT2aiLY\u002BxMxqXsECJQYkqa94T8TBF\u002BuT1yrs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"35"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022mSneaQjgT2aiLY\u002BxMxqXsECJQYkqa94T8TBF\u002BuT1yrs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 03 Mar 2025 13:40:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Weather App/lib/jquery/jquery.0i3buxo5is.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\jquery.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

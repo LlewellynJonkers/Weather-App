@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WV7xEymL20dnsQyFznP8HJBayadyyfoaz7Q3/RXEBqU=",
+  "Hash": "/nndsQ8TwMWJ9L+00LEpMPaXCHbzlCjuPFWtt3ZBEOk=",
   "Source": "Weather App",
   "BasePath": "_content/Weather App",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Weather App\\wwwroot",
       "Source": "Weather App",
-      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\",
       "BasePath": "_content/Weather App",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\8h3sdnwxrl-o1o13a6vjx.gz",
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\8h3sdnwxrl-o1o13a6vjx.gz",
       "SourceId": "Weather App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Weather App",
       "RelativePath": "lib/jquery/jquery.min#[.{fingerprint=o1o13a6vjx}]?.js.gz",
       "AssetKind": "All",
@@ -28,20 +28,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.min.js",
+      "RelatedAsset": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\lib\\jquery\\jquery.min.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "9lbv9l0z68",
       "Integrity": "bSlV8nIWgnEsf0ljiCRK0xw364UXDcqZZilq1CQ+At0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.min.js"
+      "OriginalItemSpec": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\lib\\jquery\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\9c5iy31ga7-8euljnb70i.gz",
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\9c5iy31ga7-8euljnb70i.gz",
       "SourceId": "Weather App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Weather App",
       "RelativePath": "styles/main#[.{fingerprint=8euljnb70i}]?.css.gz",
       "AssetKind": "All",
@@ -49,20 +49,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\styles\\main.css",
+      "RelatedAsset": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\styles\\main.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "x13wmy2uzj",
       "Integrity": "i+qi3EqSIn+MwwzcQZUydHagoaYJLm6UNdJX1tni2Fg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\styles\\main.css"
+      "OriginalItemSpec": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\styles\\main.css"
     },
     {
-      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\ddupwpouix-87fc7y1x7t.gz",
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\ddupwpouix-87fc7y1x7t.gz",
       "SourceId": "Weather App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Weather App",
       "RelativePath": "lib/jquery/jquery.slim.min#[.{fingerprint=87fc7y1x7t}]?.map.gz",
       "AssetKind": "All",
@@ -70,20 +70,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.min.map",
+      "RelatedAsset": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.min.map",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "uiwq7himce",
       "Integrity": "2u2XFgZyC96dP/elrO5ny/maD/llVl8JsX3pBm2SWT0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.min.map"
+      "OriginalItemSpec": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.min.map"
     },
     {
-      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\dxozd0g215-0i3buxo5is.gz",
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\dxozd0g215-0i3buxo5is.gz",
       "SourceId": "Weather App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Weather App",
       "RelativePath": "lib/jquery/jquery#[.{fingerprint=0i3buxo5is}]?.js.gz",
       "AssetKind": "All",
@@ -91,20 +91,41 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.js",
+      "RelatedAsset": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\lib\\jquery\\jquery.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "v75tr20pas",
       "Integrity": "q0KM+9yOLRYeTH/iGBE/HUYO08aXn2DmZ+yyIU6/kho=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.js"
+      "OriginalItemSpec": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\lib\\jquery\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\odmjbc45h7-ttgo8qnofa.gz",
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\etae79q911-fqb8try5i7.gz",
       "SourceId": "Weather App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Weather App",
+      "RelativePath": "key#[.{fingerprint=fqb8try5i7}]?.txt.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\key.txt",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "hn8f9z14l8",
+      "Integrity": "jf4ijXkgT/NkrsoqdfAVDRrcRMbriAUnvhazqr4GKSk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\key.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\odmjbc45h7-ttgo8qnofa.gz",
+      "SourceId": "Weather App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Weather App",
       "RelativePath": "lib/jquery/jquery.min#[.{fingerprint=ttgo8qnofa}]?.map.gz",
       "AssetKind": "All",
@@ -112,20 +133,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.min.map",
+      "RelatedAsset": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\lib\\jquery\\jquery.min.map",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "sdwt97mj8r",
       "Integrity": "0HH7P7Mtrs+2sBMSFXD8DJw0oV4iDB5wkeRFpSi113A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.min.map"
+      "OriginalItemSpec": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\lib\\jquery\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\s9vytt9utf-muycvpuwrr.gz",
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\s9vytt9utf-muycvpuwrr.gz",
       "SourceId": "Weather App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Weather App",
       "RelativePath": "lib/jquery/jquery.slim.min#[.{fingerprint=muycvpuwrr}]?.js.gz",
       "AssetKind": "All",
@@ -133,20 +154,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
+      "RelatedAsset": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "gm2ug2dj20",
       "Integrity": "OK9mKWiOoFmOZ+xYop9MRSKE6LHMu/9ZTCPvluUOpcA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.min.js"
+      "OriginalItemSpec": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.min.js"
     },
     {
-      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\u2qcma48rb-2z0ns9nrw6.gz",
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\u2qcma48rb-2z0ns9nrw6.gz",
       "SourceId": "Weather App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Weather App",
       "RelativePath": "lib/jquery/jquery.slim#[.{fingerprint=2z0ns9nrw6}]?.js.gz",
       "AssetKind": "All",
@@ -154,20 +175,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.js",
+      "RelatedAsset": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "yow8h3bl0n",
       "Integrity": "fhspAbITSYOUuRd6s5oYdr7V1DC3ibPbW5Siv7MGps8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.js"
+      "OriginalItemSpec": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.js"
     },
     {
-      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\w088w71syy-ojslo5zthd.gz",
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\w088w71syy-ojslo5zthd.gz",
       "SourceId": "Weather App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Weather App",
       "RelativePath": "scripts/main#[.{fingerprint=ojslo5zthd}]?.js.gz",
       "AssetKind": "All",
@@ -175,20 +196,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\scripts\\main.js",
+      "RelatedAsset": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\scripts\\main.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "72en8ucz9v",
       "Integrity": "72Zp44K09L9rDZumwn07reNDSkt91SySx7QaFXK/WBc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\scripts\\main.js"
+      "OriginalItemSpec": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\scripts\\main.js"
     },
     {
-      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\clear.png",
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\Images\\clear.png",
       "SourceId": "Weather App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\",
       "BasePath": "_content/Weather App",
       "RelativePath": "Images/clear#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -206,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\clear.png"
     },
     {
-      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\clouds.png",
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\Images\\clouds.png",
       "SourceId": "Weather App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\",
       "BasePath": "_content/Weather App",
       "RelativePath": "Images/clouds#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -227,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\clouds.png"
     },
     {
-      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\drizzle.png",
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\Images\\drizzle.png",
       "SourceId": "Weather App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\",
       "BasePath": "_content/Weather App",
       "RelativePath": "Images/drizzle#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -248,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\drizzle.png"
     },
     {
-      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\humidity.png",
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\Images\\humidity.png",
       "SourceId": "Weather App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\",
       "BasePath": "_content/Weather App",
       "RelativePath": "Images/humidity#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -269,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\humidity.png"
     },
     {
-      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\mist.png",
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\Images\\mist.png",
       "SourceId": "Weather App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\",
       "BasePath": "_content/Weather App",
       "RelativePath": "Images/mist#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -290,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\mist.png"
     },
     {
-      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\rain.png",
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\Images\\rain.png",
       "SourceId": "Weather App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\",
       "BasePath": "_content/Weather App",
       "RelativePath": "Images/rain#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -311,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\rain.png"
     },
     {
-      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\search.png",
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\Images\\search.png",
       "SourceId": "Weather App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\",
       "BasePath": "_content/Weather App",
       "RelativePath": "Images/search#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -332,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\search.png"
     },
     {
-      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\snow.png",
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\Images\\snow.png",
       "SourceId": "Weather App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\",
       "BasePath": "_content/Weather App",
       "RelativePath": "Images/snow#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -353,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\snow.png"
     },
     {
-      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\wind.png",
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\Images\\wind.png",
       "SourceId": "Weather App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\",
       "BasePath": "_content/Weather App",
       "RelativePath": "Images/wind#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -374,10 +395,31 @@
       "OriginalItemSpec": "wwwroot\\Images\\wind.png"
     },
     {
-      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.js",
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\key.txt",
       "SourceId": "Weather App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\",
+      "BasePath": "_content/Weather App",
+      "RelativePath": "key#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fqb8try5i7",
+      "Integrity": "mSneaQjgT2aiLY+xMxqXsECJQYkqa94T8TBF+uT1yrs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\key.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\lib\\jquery\\jquery.js",
+      "SourceId": "Weather App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\",
       "BasePath": "_content/Weather App",
       "RelativePath": "lib/jquery/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -395,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.min.js",
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\lib\\jquery\\jquery.min.js",
       "SourceId": "Weather App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\",
       "BasePath": "_content/Weather App",
       "RelativePath": "lib/jquery/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -416,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.min.map",
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\lib\\jquery\\jquery.min.map",
       "SourceId": "Weather App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\",
       "BasePath": "_content/Weather App",
       "RelativePath": "lib/jquery/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -437,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.js",
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.js",
       "SourceId": "Weather App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\",
       "BasePath": "_content/Weather App",
       "RelativePath": "lib/jquery/jquery.slim#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -458,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.slim.js"
     },
     {
-      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
       "SourceId": "Weather App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\",
       "BasePath": "_content/Weather App",
       "RelativePath": "lib/jquery/jquery.slim.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -479,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.slim.min.js"
     },
     {
-      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.min.map",
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.min.map",
       "SourceId": "Weather App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\",
       "BasePath": "_content/Weather App",
       "RelativePath": "lib/jquery/jquery.slim.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -500,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.slim.min.map"
     },
     {
-      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\scripts\\main.js",
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\scripts\\main.js",
       "SourceId": "Weather App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\",
       "BasePath": "_content/Weather App",
       "RelativePath": "scripts/main#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -521,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\scripts\\main.js"
     },
     {
-      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\styles\\main.css",
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\styles\\main.css",
       "SourceId": "Weather App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\",
       "BasePath": "_content/Weather App",
       "RelativePath": "styles/main#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -545,7 +587,7 @@
   "Endpoints": [
     {
       "Route": "Images/clear.6512ipqvtw.png",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\clear.png",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\Images\\clear.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -590,7 +632,7 @@
     },
     {
       "Route": "Images/clear.png",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\clear.png",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\Images\\clear.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -627,7 +669,7 @@
     },
     {
       "Route": "Images/clouds.3l0o0ax3si.png",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\clouds.png",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\Images\\clouds.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -672,7 +714,7 @@
     },
     {
       "Route": "Images/clouds.png",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\clouds.png",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\Images\\clouds.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -709,7 +751,7 @@
     },
     {
       "Route": "Images/drizzle.1lroh06byl.png",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\drizzle.png",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\Images\\drizzle.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -754,7 +796,7 @@
     },
     {
       "Route": "Images/drizzle.png",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\drizzle.png",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\Images\\drizzle.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -791,7 +833,7 @@
     },
     {
       "Route": "Images/humidity.nt543qxqhe.png",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\humidity.png",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\Images\\humidity.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -836,7 +878,7 @@
     },
     {
       "Route": "Images/humidity.png",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\humidity.png",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\Images\\humidity.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -873,7 +915,7 @@
     },
     {
       "Route": "Images/mist.75gxt9oz9f.png",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\mist.png",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\Images\\mist.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -918,7 +960,7 @@
     },
     {
       "Route": "Images/mist.png",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\mist.png",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\Images\\mist.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -955,7 +997,7 @@
     },
     {
       "Route": "Images/rain.p0ssn1vqn4.png",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\rain.png",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\Images\\rain.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1000,7 +1042,7 @@
     },
     {
       "Route": "Images/rain.png",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\rain.png",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\Images\\rain.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1037,7 +1079,7 @@
     },
     {
       "Route": "Images/search.c00gdkobp3.png",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\search.png",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\Images\\search.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1082,7 +1124,7 @@
     },
     {
       "Route": "Images/search.png",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\search.png",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\Images\\search.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1119,7 +1161,7 @@
     },
     {
       "Route": "Images/snow.37r8x79zdj.png",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\snow.png",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\Images\\snow.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1164,7 +1206,7 @@
     },
     {
       "Route": "Images/snow.png",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\snow.png",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\Images\\snow.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1201,7 +1243,7 @@
     },
     {
       "Route": "Images/wind.dc1qfm75lm.png",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\wind.png",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\Images\\wind.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1246,7 +1288,7 @@
     },
     {
       "Route": "Images/wind.png",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\Images\\wind.png",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\Images\\wind.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1282,8 +1324,306 @@
       ]
     },
     {
+      "Route": "key.fqb8try5i7.txt",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\etae79q911-fqb8try5i7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.017857142857"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jf4ijXkgT/NkrsoqdfAVDRrcRMbriAUnvhazqr4GKSk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 13:40:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"mSneaQjgT2aiLY+xMxqXsECJQYkqa94T8TBF+uT1yrs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fqb8try5i7"
+        },
+        {
+          "Name": "label",
+          "Value": "key.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mSneaQjgT2aiLY+xMxqXsECJQYkqa94T8TBF+uT1yrs="
+        }
+      ]
+    },
+    {
+      "Route": "key.fqb8try5i7.txt",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\key.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mSneaQjgT2aiLY+xMxqXsECJQYkqa94T8TBF+uT1yrs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 13:40:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fqb8try5i7"
+        },
+        {
+          "Name": "label",
+          "Value": "key.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mSneaQjgT2aiLY+xMxqXsECJQYkqa94T8TBF+uT1yrs="
+        }
+      ]
+    },
+    {
+      "Route": "key.fqb8try5i7.txt.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\etae79q911-fqb8try5i7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jf4ijXkgT/NkrsoqdfAVDRrcRMbriAUnvhazqr4GKSk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 13:40:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fqb8try5i7"
+        },
+        {
+          "Name": "label",
+          "Value": "key.txt.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jf4ijXkgT/NkrsoqdfAVDRrcRMbriAUnvhazqr4GKSk="
+        }
+      ]
+    },
+    {
+      "Route": "key.txt",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\etae79q911-fqb8try5i7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.017857142857"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jf4ijXkgT/NkrsoqdfAVDRrcRMbriAUnvhazqr4GKSk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 13:40:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"mSneaQjgT2aiLY+xMxqXsECJQYkqa94T8TBF+uT1yrs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mSneaQjgT2aiLY+xMxqXsECJQYkqa94T8TBF+uT1yrs="
+        }
+      ]
+    },
+    {
+      "Route": "key.txt",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\key.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mSneaQjgT2aiLY+xMxqXsECJQYkqa94T8TBF+uT1yrs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 13:40:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mSneaQjgT2aiLY+xMxqXsECJQYkqa94T8TBF+uT1yrs="
+        }
+      ]
+    },
+    {
+      "Route": "key.txt.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\etae79q911-fqb8try5i7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jf4ijXkgT/NkrsoqdfAVDRrcRMbriAUnvhazqr4GKSk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 13:40:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jf4ijXkgT/NkrsoqdfAVDRrcRMbriAUnvhazqr4GKSk="
+        }
+      ]
+    },
+    {
       "Route": "lib/jquery/jquery.0i3buxo5is.js",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\dxozd0g215-0i3buxo5is.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\dxozd0g215-0i3buxo5is.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1346,7 +1686,7 @@
     },
     {
       "Route": "lib/jquery/jquery.0i3buxo5is.js",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.js",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\lib\\jquery\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1391,7 +1731,7 @@
     },
     {
       "Route": "lib/jquery/jquery.0i3buxo5is.js.gz",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\dxozd0g215-0i3buxo5is.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\dxozd0g215-0i3buxo5is.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1444,7 +1784,7 @@
     },
     {
       "Route": "lib/jquery/jquery.js",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\dxozd0g215-0i3buxo5is.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\dxozd0g215-0i3buxo5is.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1499,7 +1839,7 @@
     },
     {
       "Route": "lib/jquery/jquery.js",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.js",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\lib\\jquery\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1536,7 +1876,7 @@
     },
     {
       "Route": "lib/jquery/jquery.js.gz",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\dxozd0g215-0i3buxo5is.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\dxozd0g215-0i3buxo5is.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1581,7 +1921,7 @@
     },
     {
       "Route": "lib/jquery/jquery.min.js",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\8h3sdnwxrl-o1o13a6vjx.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\8h3sdnwxrl-o1o13a6vjx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1636,7 +1976,7 @@
     },
     {
       "Route": "lib/jquery/jquery.min.js",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.min.js",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\lib\\jquery\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1673,7 +2013,7 @@
     },
     {
       "Route": "lib/jquery/jquery.min.js.gz",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\8h3sdnwxrl-o1o13a6vjx.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\8h3sdnwxrl-o1o13a6vjx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1718,7 +2058,7 @@
     },
     {
       "Route": "lib/jquery/jquery.min.map",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\odmjbc45h7-ttgo8qnofa.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\odmjbc45h7-ttgo8qnofa.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1773,7 +2113,7 @@
     },
     {
       "Route": "lib/jquery/jquery.min.map",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.min.map",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\lib\\jquery\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1810,7 +2150,7 @@
     },
     {
       "Route": "lib/jquery/jquery.min.map.gz",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\odmjbc45h7-ttgo8qnofa.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\odmjbc45h7-ttgo8qnofa.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1855,7 +2195,7 @@
     },
     {
       "Route": "lib/jquery/jquery.min.o1o13a6vjx.js",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\8h3sdnwxrl-o1o13a6vjx.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\8h3sdnwxrl-o1o13a6vjx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1918,7 +2258,7 @@
     },
     {
       "Route": "lib/jquery/jquery.min.o1o13a6vjx.js",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.min.js",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\lib\\jquery\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1963,7 +2303,7 @@
     },
     {
       "Route": "lib/jquery/jquery.min.o1o13a6vjx.js.gz",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\8h3sdnwxrl-o1o13a6vjx.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\8h3sdnwxrl-o1o13a6vjx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2016,7 +2356,7 @@
     },
     {
       "Route": "lib/jquery/jquery.min.ttgo8qnofa.map",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\odmjbc45h7-ttgo8qnofa.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\odmjbc45h7-ttgo8qnofa.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2079,7 +2419,7 @@
     },
     {
       "Route": "lib/jquery/jquery.min.ttgo8qnofa.map",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.min.map",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\lib\\jquery\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2124,7 +2464,7 @@
     },
     {
       "Route": "lib/jquery/jquery.min.ttgo8qnofa.map.gz",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\odmjbc45h7-ttgo8qnofa.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\odmjbc45h7-ttgo8qnofa.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2177,7 +2517,7 @@
     },
     {
       "Route": "lib/jquery/jquery.slim.2z0ns9nrw6.js",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\u2qcma48rb-2z0ns9nrw6.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\u2qcma48rb-2z0ns9nrw6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2240,7 +2580,7 @@
     },
     {
       "Route": "lib/jquery/jquery.slim.2z0ns9nrw6.js",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.js",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2285,7 +2625,7 @@
     },
     {
       "Route": "lib/jquery/jquery.slim.2z0ns9nrw6.js.gz",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\u2qcma48rb-2z0ns9nrw6.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\u2qcma48rb-2z0ns9nrw6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2338,7 +2678,7 @@
     },
     {
       "Route": "lib/jquery/jquery.slim.js",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\u2qcma48rb-2z0ns9nrw6.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\u2qcma48rb-2z0ns9nrw6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2393,7 +2733,7 @@
     },
     {
       "Route": "lib/jquery/jquery.slim.js",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.js",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2430,7 +2770,7 @@
     },
     {
       "Route": "lib/jquery/jquery.slim.js.gz",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\u2qcma48rb-2z0ns9nrw6.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\u2qcma48rb-2z0ns9nrw6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2475,7 +2815,7 @@
     },
     {
       "Route": "lib/jquery/jquery.slim.min.87fc7y1x7t.map",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\ddupwpouix-87fc7y1x7t.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\ddupwpouix-87fc7y1x7t.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2538,7 +2878,7 @@
     },
     {
       "Route": "lib/jquery/jquery.slim.min.87fc7y1x7t.map",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.min.map",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2583,7 +2923,7 @@
     },
     {
       "Route": "lib/jquery/jquery.slim.min.87fc7y1x7t.map.gz",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\ddupwpouix-87fc7y1x7t.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\ddupwpouix-87fc7y1x7t.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2636,7 +2976,7 @@
     },
     {
       "Route": "lib/jquery/jquery.slim.min.js",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\s9vytt9utf-muycvpuwrr.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\s9vytt9utf-muycvpuwrr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2691,7 +3031,7 @@
     },
     {
       "Route": "lib/jquery/jquery.slim.min.js",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2728,7 +3068,7 @@
     },
     {
       "Route": "lib/jquery/jquery.slim.min.js.gz",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\s9vytt9utf-muycvpuwrr.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\s9vytt9utf-muycvpuwrr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2773,7 +3113,7 @@
     },
     {
       "Route": "lib/jquery/jquery.slim.min.map",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\ddupwpouix-87fc7y1x7t.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\ddupwpouix-87fc7y1x7t.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2828,7 +3168,7 @@
     },
     {
       "Route": "lib/jquery/jquery.slim.min.map",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.min.map",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2865,7 +3205,7 @@
     },
     {
       "Route": "lib/jquery/jquery.slim.min.map.gz",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\ddupwpouix-87fc7y1x7t.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\ddupwpouix-87fc7y1x7t.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2910,7 +3250,7 @@
     },
     {
       "Route": "lib/jquery/jquery.slim.min.muycvpuwrr.js",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\s9vytt9utf-muycvpuwrr.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\s9vytt9utf-muycvpuwrr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2973,7 +3313,7 @@
     },
     {
       "Route": "lib/jquery/jquery.slim.min.muycvpuwrr.js",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3018,7 +3358,7 @@
     },
     {
       "Route": "lib/jquery/jquery.slim.min.muycvpuwrr.js.gz",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\s9vytt9utf-muycvpuwrr.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\s9vytt9utf-muycvpuwrr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3071,7 +3411,7 @@
     },
     {
       "Route": "scripts/main.js",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\w088w71syy-ojslo5zthd.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\w088w71syy-ojslo5zthd.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3126,7 +3466,7 @@
     },
     {
       "Route": "scripts/main.js",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\scripts\\main.js",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\scripts\\main.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3163,7 +3503,7 @@
     },
     {
       "Route": "scripts/main.js.gz",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\w088w71syy-ojslo5zthd.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\w088w71syy-ojslo5zthd.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3208,7 +3548,7 @@
     },
     {
       "Route": "scripts/main.ojslo5zthd.js",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\w088w71syy-ojslo5zthd.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\w088w71syy-ojslo5zthd.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3271,7 +3611,7 @@
     },
     {
       "Route": "scripts/main.ojslo5zthd.js",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\scripts\\main.js",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\scripts\\main.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3316,7 +3656,7 @@
     },
     {
       "Route": "scripts/main.ojslo5zthd.js.gz",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\w088w71syy-ojslo5zthd.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\w088w71syy-ojslo5zthd.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3369,7 +3709,7 @@
     },
     {
       "Route": "styles/main.8euljnb70i.css",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\9c5iy31ga7-8euljnb70i.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\9c5iy31ga7-8euljnb70i.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3432,7 +3772,7 @@
     },
     {
       "Route": "styles/main.8euljnb70i.css",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\styles\\main.css",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\styles\\main.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3477,7 +3817,7 @@
     },
     {
       "Route": "styles/main.8euljnb70i.css.gz",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\9c5iy31ga7-8euljnb70i.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\9c5iy31ga7-8euljnb70i.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3530,7 +3870,7 @@
     },
     {
       "Route": "styles/main.css",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\9c5iy31ga7-8euljnb70i.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\9c5iy31ga7-8euljnb70i.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3585,7 +3925,7 @@
     },
     {
       "Route": "styles/main.css",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\wwwroot\\styles\\main.css",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\styles\\main.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3622,7 +3962,7 @@
     },
     {
       "Route": "styles/main.css.gz",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\Debug\\net9.0\\compressed\\9c5iy31ga7-8euljnb70i.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\9c5iy31ga7-8euljnb70i.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {

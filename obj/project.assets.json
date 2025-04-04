@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\Weather App.csproj",
+      "projectUniqueName": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\Weather App.csproj",
       "projectName": "Weather App",
-      "projectPath": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\Weather App.csproj",
+      "projectPath": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\Weather App.csproj",
       "packagesPath": "C:\\Users\\Llewellyn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Weather App\\obj\\",
+      "outputPath": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

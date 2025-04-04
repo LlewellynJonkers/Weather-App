@@ -1,17 +1,12 @@
 ﻿namespace Weather_App.Services
 {
-    public class WeatherApiService
+    public class WeatherApiService(HttpClient httpClient, IWebHostEnvironment env)
     {
-        private readonly HttpClient _httpClient;
-        private readonly ILogger<WeatherApiService> _logger;
-        private readonly IWebHostEnvironment _env;
+        //public WeatherApiService
+        private HttpClient _httpClient = httpClient;
+        
+        private  IWebHostEnvironment _env = env;
 
-        public WeatherApiService(HttpClient httpClient,IWebHostEnvironment env)//, ILogger<WeatherApiService> logger)
-        {
-            _httpClient = httpClient;
-            _env = env;
-            //_logger = logger;
-        }
         public async Task<string> GetWeatherData(string city)
         {
             try

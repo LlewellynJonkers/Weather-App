@@ -40,3 +40,46 @@ C:\Users\Llewellyn\source\git\Expance Tracker\Weather App\obj\Debug\net9.0\Weath
 C:\Users\Llewellyn\source\git\Expance Tracker\Weather App\obj\Debug\net9.0\ref\Weather App.dll
 C:\Users\Llewellyn\source\git\Expance Tracker\Weather App\obj\Debug\net9.0\compressed\9c5iy31ga7-8euljnb70i.gz
 C:\Users\Llewellyn\source\git\Expance Tracker\Weather App\obj\Debug\net9.0\compressed\w088w71syy-ojslo5zthd.gz
+C:\Users\Llewellyn\source\git\Weather App\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Llewellyn\source\git\Weather App\bin\Debug\net9.0\appsettings.json
+C:\Users\Llewellyn\source\git\Weather App\bin\Debug\net9.0\libman.json
+C:\Users\Llewellyn\source\git\Weather App\bin\Debug\net9.0\Weather App.staticwebassets.runtime.json
+C:\Users\Llewellyn\source\git\Weather App\bin\Debug\net9.0\Weather App.staticwebassets.endpoints.json
+C:\Users\Llewellyn\source\git\Weather App\bin\Debug\net9.0\Weather App.exe
+C:\Users\Llewellyn\source\git\Weather App\bin\Debug\net9.0\Weather App.deps.json
+C:\Users\Llewellyn\source\git\Weather App\bin\Debug\net9.0\Weather App.runtimeconfig.json
+C:\Users\Llewellyn\source\git\Weather App\bin\Debug\net9.0\Weather App.dll
+C:\Users\Llewellyn\source\git\Weather App\bin\Debug\net9.0\Weather App.pdb
+C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\Weather App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\Weather App.AssemblyInfoInputs.cache
+C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\Weather App.AssemblyInfo.cs
+C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\Weather App.csproj.CoreCompileInputs.cache
+C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\Weather App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\Weather App.RazorAssemblyInfo.cache
+C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\Weather App.RazorAssemblyInfo.cs
+C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\Weather App.sourcelink.json
+C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\scopedcss\bundle\Weather App.styles.css
+C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\compressed\etae79q911-fqb8try5i7.gz
+C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\compressed\dxozd0g215-0i3buxo5is.gz
+C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\compressed\8h3sdnwxrl-o1o13a6vjx.gz
+C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\compressed\odmjbc45h7-ttgo8qnofa.gz
+C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\compressed\u2qcma48rb-2z0ns9nrw6.gz
+C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\compressed\s9vytt9utf-muycvpuwrr.gz
+C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\compressed\ddupwpouix-87fc7y1x7t.gz
+C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\compressed\w088w71syy-ojslo5zthd.gz
+C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\compressed\9c5iy31ga7-8euljnb70i.gz
+C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\staticwebassets\msbuild.Weather App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\staticwebassets\msbuild.Weather App.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\staticwebassets\msbuild.build.Weather App.props
+C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Weather App.props
+C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Weather App.props
+C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\Weather App.dll
+C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\refint\Weather App.dll
+C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\Weather App.pdb
+C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\Weather App.genruntimeconfig.cache
+C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\ref\Weather App.dll

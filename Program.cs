@@ -6,7 +6,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSingleton<WeatherApiService>();
+//builder.Services.AddSingleton<WeatherApiService>();
 
 var app = builder.Build();
 
