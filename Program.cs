@@ -1,4 +1,5 @@
 using Weather_App.Services;
+using Weather_App.Controllers;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -7,6 +8,9 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddEndpointsApiExplorer();
 //builder.Services.AddSingleton<WeatherApiService>();
+
+
+AppAPIController._builder = builder;
 
 var app = builder.Build();
 

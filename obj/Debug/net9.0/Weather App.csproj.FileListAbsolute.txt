@@ -66,7 +66,6 @@ C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\compressed\odmjbc45h7
 C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\compressed\u2qcma48rb-2z0ns9nrw6.gz
 C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\compressed\s9vytt9utf-muycvpuwrr.gz
 C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\compressed\ddupwpouix-87fc7y1x7t.gz
-C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\compressed\w088w71syy-ojslo5zthd.gz
 C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\compressed\9c5iy31ga7-8euljnb70i.gz
 C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\staticwebassets.development.json
@@ -83,3 +82,4 @@ C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\refint\Weather App.dl
 C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\Weather App.pdb
 C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\Weather App.genruntimeconfig.cache
 C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\ref\Weather App.dll
+C:\Users\Llewellyn\source\git\Weather App\obj\Debug\net9.0\compressed\w088w71syy-3wcw9qepud.gz

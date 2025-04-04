@@ -1,11 +1,16 @@
 ﻿namespace Weather_App.Services
 {
-    public class WeatherApiService(HttpClient httpClient, IWebHostEnvironment env)
+    public class WeatherApiService
     {
-        //public WeatherApiService
-        private HttpClient _httpClient = httpClient;
-        
-        private  IWebHostEnvironment _env = env;
+        private readonly HttpClient _httpClient;
+        private readonly IWebHostEnvironment _env;
+        private readonly WebApplicationBuilder _builder;
+
+        public WeatherApiService(WebApplicationBuilder builder)
+        {
+            _builder = builder ?? throw new ArgumentNullException(nameof(builder));
+            _httpClient = new HttpClient();
+        }
 
         public async Task<string> GetWeatherData(string city)
         {
@@ -17,26 +22,18 @@
                 HttpResponseMessage response = await _httpClient.GetAsync(apiUrl);
                 response.EnsureSuccessStatusCode(); // Throws exception if response is not successful
 
-                string content = await response.Content.ReadAsStringAsync();
-                return content;
+                return await response.Content.ReadAsStringAsync();
             }
-            catch(Exception e)
+            catch (Exception e)
             {
                 return $"error:{e.Message}";
             }
         }
+
         private async Task<string> GetKey()
         {
-            string filePath = Path.Combine(_env.WebRootPath, "key.txt");
-
-            if (File.Exists(filePath))
-            {
-                return await File.ReadAllTextAsync(filePath);
-            }
-            else
-            {
-                throw new FileNotFoundException("The key.txt file not found!\nSearched in \n\t~\\key.txt");
-            }
+            var key = _builder.Configuration.GetSection("AppSettings").GetSection("WeatherApiKey").Value;
+            return key ?? throw new InvalidOperationException("WeatherApiKey is not configured.");
         }
     }
 }
