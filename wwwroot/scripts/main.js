@@ -19,7 +19,8 @@ $('.btn-search').click(()=> {
                 console.error(data.error);
                 return;
             }
-            $('#temp').text(data.main.temp);
+            let temp = data.main.temp - 273.15; // Convert from Kelvin to Celsius
+            $('#temp').text((Math.round(temp * 100) / 100).toFixed(2));
             // const temperature = data.main.temp;
             $('.city').text(data.name);
             $('.humidity').text(data.main.humidity + '%');

@@ -192,17 +192,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"muycvpuwrr"},{"Name":"integrity","Value":"sha256-kmHvs0B\u002BOpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8="},{"Name":"label","Value":"_content/Weather App/lib/jquery/jquery.slim.min.js"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"70264"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022kmHvs0B\u002BOpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8=\u0022"},{"Name":"Last-Modified","Value":"Mon, 03 Mar 2025 11:28:44 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Weather App/scripts/main.3wcw9qepud.js">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\scripts\main.js'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3wcw9qepud"},{"Name":"integrity","Value":"sha256-vYXUsZ6AhDqnJ950542KnAzEgUpYuunW8VnjWy1pIB8="},{"Name":"label","Value":"_content/Weather App/scripts/main.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2253"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022vYXUsZ6AhDqnJ950542KnAzEgUpYuunW8VnjWy1pIB8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Apr 2025 09:20:42 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Weather App/scripts/main.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\scripts\main.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vYXUsZ6AhDqnJ950542KnAzEgUpYuunW8VnjWy1pIB8="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2253"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022vYXUsZ6AhDqnJ950542KnAzEgUpYuunW8VnjWy1pIB8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Apr 2025 09:20:42 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Il77obI6v0m8/oeFLIBoLZukrr3vMtMkPeXMyMbTxxA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2363"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022Il77obI6v0m8/oeFLIBoLZukrr3vMtMkPeXMyMbTxxA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Apr 2025 10:49:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Weather App/scripts/main.u00zve0dv1.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\scripts\main.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"u00zve0dv1"},{"Name":"integrity","Value":"sha256-Il77obI6v0m8/oeFLIBoLZukrr3vMtMkPeXMyMbTxxA="},{"Name":"label","Value":"_content/Weather App/scripts/main.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2363"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022Il77obI6v0m8/oeFLIBoLZukrr3vMtMkPeXMyMbTxxA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Apr 2025 10:49:24 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Weather App/styles/main.8euljnb70i.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\styles\main.css'))</AssetFile>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Ox13KJtWEBu9HPmODgGbabJlZq9Adw6qiLKa56nNYYA=",
+  "Hash": "vfBwLN6L8B/6g8kilyQM9+uXfbgjVlrddktj0hsjkkE=",
   "Source": "Weather App",
   "BasePath": "_content/Weather App",
   "Mode": "Default",
@@ -185,12 +185,12 @@
       "OriginalItemSpec": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\lib\\jquery\\jquery.slim.js"
     },
     {
-      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\w088w71syy-3wcw9qepud.gz",
+      "Identity": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\w088w71syy-u00zve0dv1.gz",
       "SourceId": "Weather App",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Weather App",
-      "RelativePath": "scripts/main#[.{fingerprint=3wcw9qepud}]?.js.gz",
+      "RelativePath": "scripts/main#[.{fingerprint=u00zve0dv1}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -199,8 +199,8 @@
       "RelatedAsset": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\scripts\\main.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "h4djf02lc3",
-      "Integrity": "MZhf6Wd+1Q8ktW2M/UHK3XVm5VbVQgRNxX0QU1lBxmk=",
+      "Fingerprint": "fppyrdudi5",
+      "Integrity": "oyW68HBbURd13dn9X7cPbe52zDzlC+b/JuurCoIJ2K0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\scripts\\main.js"
@@ -556,8 +556,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "3wcw9qepud",
-      "Integrity": "vYXUsZ6AhDqnJ950542KnAzEgUpYuunW8VnjWy1pIB8=",
+      "Fingerprint": "u00zve0dv1",
+      "Integrity": "Il77obI6v0m8/oeFLIBoLZukrr3vMtMkPeXMyMbTxxA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\scripts\\main.js"
@@ -3410,13 +3410,13 @@
       ]
     },
     {
-      "Route": "scripts/main.3wcw9qepud.js",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\w088w71syy-3wcw9qepud.gz",
+      "Route": "scripts/main.js",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\w088w71syy-u00zve0dv1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001474926254"
+          "Quality": "0.001328021248"
         }
       ],
       "ResponseHeaders": [
@@ -3426,19 +3426,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "677"
+          "Value": "752"
         },
         {
           "Name": "ETag",
-          "Value": "\"MZhf6Wd+1Q8ktW2M/UHK3XVm5VbVQgRNxX0QU1lBxmk=\""
+          "Value": "\"oyW68HBbURd13dn9X7cPbe52zDzlC+b/JuurCoIJ2K0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 09:20:42 GMT"
+          "Value": "Fri, 04 Apr 2025 10:49:24 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -3454,26 +3454,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"vYXUsZ6AhDqnJ950542KnAzEgUpYuunW8VnjWy1pIB8=\""
+          "Value": "W/\"Il77obI6v0m8/oeFLIBoLZukrr3vMtMkPeXMyMbTxxA=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "3wcw9qepud"
-        },
-        {
-          "Name": "label",
-          "Value": "scripts/main.js"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-vYXUsZ6AhDqnJ950542KnAzEgUpYuunW8VnjWy1pIB8="
+          "Value": "sha256-Il77obI6v0m8/oeFLIBoLZukrr3vMtMkPeXMyMbTxxA="
         }
       ]
     },
     {
-      "Route": "scripts/main.3wcw9qepud.js",
+      "Route": "scripts/main.js",
       "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\scripts\\main.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3483,7 +3475,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2253"
+          "Value": "2363"
         },
         {
           "Name": "Content-Type",
@@ -3491,11 +3483,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vYXUsZ6AhDqnJ950542KnAzEgUpYuunW8VnjWy1pIB8=\""
+          "Value": "\"Il77obI6v0m8/oeFLIBoLZukrr3vMtMkPeXMyMbTxxA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 09:20:42 GMT"
+          "Value": "Fri, 04 Apr 2025 10:49:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Il77obI6v0m8/oeFLIBoLZukrr3vMtMkPeXMyMbTxxA="
+        }
+      ]
+    },
+    {
+      "Route": "scripts/main.js.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\w088w71syy-u00zve0dv1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "752"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oyW68HBbURd13dn9X7cPbe52zDzlC+b/JuurCoIJ2K0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 10:49:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oyW68HBbURd13dn9X7cPbe52zDzlC+b/JuurCoIJ2K0="
+        }
+      ]
+    },
+    {
+      "Route": "scripts/main.u00zve0dv1.js",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\w088w71syy-u00zve0dv1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001328021248"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "752"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oyW68HBbURd13dn9X7cPbe52zDzlC+b/JuurCoIJ2K0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 10:49:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Il77obI6v0m8/oeFLIBoLZukrr3vMtMkPeXMyMbTxxA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u00zve0dv1"
+        },
+        {
+          "Name": "label",
+          "Value": "scripts/main.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Il77obI6v0m8/oeFLIBoLZukrr3vMtMkPeXMyMbTxxA="
+        }
+      ]
+    },
+    {
+      "Route": "scripts/main.u00zve0dv1.js",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\scripts\\main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2363"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Il77obI6v0m8/oeFLIBoLZukrr3vMtMkPeXMyMbTxxA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 10:49:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3505,7 +3642,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3wcw9qepud"
+          "Value": "u00zve0dv1"
         },
         {
           "Name": "label",
@@ -3513,13 +3650,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-vYXUsZ6AhDqnJ950542KnAzEgUpYuunW8VnjWy1pIB8="
+          "Value": "sha256-Il77obI6v0m8/oeFLIBoLZukrr3vMtMkPeXMyMbTxxA="
         }
       ]
     },
     {
-      "Route": "scripts/main.3wcw9qepud.js.gz",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\w088w71syy-3wcw9qepud.gz",
+      "Route": "scripts/main.u00zve0dv1.js.gz",
+      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\w088w71syy-u00zve0dv1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3528,7 +3665,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "677"
+          "Value": "752"
         },
         {
           "Name": "Content-Type",
@@ -3536,11 +3673,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MZhf6Wd+1Q8ktW2M/UHK3XVm5VbVQgRNxX0QU1lBxmk=\""
+          "Value": "\"oyW68HBbURd13dn9X7cPbe52zDzlC+b/JuurCoIJ2K0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 09:20:42 GMT"
+          "Value": "Fri, 04 Apr 2025 10:49:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3558,7 +3695,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3wcw9qepud"
+          "Value": "u00zve0dv1"
         },
         {
           "Name": "label",
@@ -3566,144 +3703,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-MZhf6Wd+1Q8ktW2M/UHK3XVm5VbVQgRNxX0QU1lBxmk="
-        }
-      ]
-    },
-    {
-      "Route": "scripts/main.js",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\w088w71syy-3wcw9qepud.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001474926254"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "677"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"MZhf6Wd+1Q8ktW2M/UHK3XVm5VbVQgRNxX0QU1lBxmk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 09:20:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"vYXUsZ6AhDqnJ950542KnAzEgUpYuunW8VnjWy1pIB8=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-vYXUsZ6AhDqnJ950542KnAzEgUpYuunW8VnjWy1pIB8="
-        }
-      ]
-    },
-    {
-      "Route": "scripts/main.js",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\wwwroot\\scripts\\main.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2253"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"vYXUsZ6AhDqnJ950542KnAzEgUpYuunW8VnjWy1pIB8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 09:20:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-vYXUsZ6AhDqnJ950542KnAzEgUpYuunW8VnjWy1pIB8="
-        }
-      ]
-    },
-    {
-      "Route": "scripts/main.js.gz",
-      "AssetFile": "C:\\Users\\Llewellyn\\source\\git\\Weather App\\obj\\Debug\\net9.0\\compressed\\w088w71syy-3wcw9qepud.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "677"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"MZhf6Wd+1Q8ktW2M/UHK3XVm5VbVQgRNxX0QU1lBxmk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 09:20:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-MZhf6Wd+1Q8ktW2M/UHK3XVm5VbVQgRNxX0QU1lBxmk="
+          "Value": "sha256-oyW68HBbURd13dn9X7cPbe52zDzlC+b/JuurCoIJ2K0="
         }
       ]
     },
